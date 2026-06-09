@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Rwuntone-Ndoro/rwuntone-ndoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rwuntone Bernard Ndoro.
 
-Here are some ideas to get you started:
+## Frontend Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building responsive and user-friendly websites using modern web technologies.
+
+### Currently Learning
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Responsive Web Design
+
+### Goals for 2026
+- Build 50+ web projects
+- Master JavaScript
+- Create a professional portfolio
+- Get my first frontend developer role
+
+### Connect With Me
+LinkedIn: (Add your LinkedIn URL)
+
+### Technologies
+HTML | CSS | JavaScript | Git | GitHub
