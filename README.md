@@ -20,7 +20,7 @@ I am passionate about building responsive and user-friendly websites using moder
 - Get my first frontend developer role
 
 ### Connect With Me
-LinkedIn: (Add your LinkedIn URL)
+LinkedIn: (https://www.linkedin.com/in/rwuntone-ndoro-52418b410)
 
 ### Technologies
 HTML | CSS | JavaScript | Git | GitHub
